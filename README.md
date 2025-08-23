@@ -62,7 +62,7 @@ The dataset is sourced from Kaggle: [Global Air Quality Dataset](https://www.kag
 
 - PM2.5 and PM10 are strongly correlated, indicating particulate matter pollution often occurs together.
 
-- Top polluted countries include [UAE, Australia, India, Japam], showing regional hotspots.
+- Top polluted countries include [UAE, Australia, India, Japan], showing regional hotspots.
 
 - Top polluted cities include [Dubai, Sydney, Mumbai, Tokyo], highlighting urban pollution challenges.
 
