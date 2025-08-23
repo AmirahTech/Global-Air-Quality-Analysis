@@ -1,7 +1,8 @@
 # Global Air Quality Analysis
 
-## Project Overview
-This project analyzes **global air quality data** to explore trends, identify polluted regions, and study relationships between different pollutants. Using a dataset of cities worldwide, it visualizes global pollution patterns and forecasts future PM2.5 levels.
+## Project Summary
+
+This project analyzes global air quality, identifying top polluted countries and cities, examining pollutant relationships, and visualizing trends over time. It also provides a forecast of PM2.5 levels, helping highlight pollution hotspots and potential future risks. Overall, it demonstrates how data analysis and visualization can reveal actionable insights into environmental health worldwide.
 
 **Key Goals:**
 - Analyze global PM2.5 trends over time
