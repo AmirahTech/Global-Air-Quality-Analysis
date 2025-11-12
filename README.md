@@ -1,4 +1,4 @@
-# Global Air Quality Analysis
+# Environmental Data Analytics: Global Air Quality Trends & Forecasting
 
 ## Project Summary
 
